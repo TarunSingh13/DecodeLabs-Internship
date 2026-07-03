@@ -1,0 +1,46 @@
+
+==================================================
+New Chat Session : 2026-06-26 11:39:17.376296
+==================================================
+Tarun: hello
+DecodeBot: Hello! 👋 How can I help you today?
+Tarun: hi
+DecodeBot: Hi! Nice to meet you.
+Tarun: hi
+DecodeBot: Hi! Nice to meet you.
+Tarun: time
+DecodeBot: Current Time : 11:39:36 AM
+Tarun: date
+DecodeBot: Today's Date : 26-06-2026
+Tarun: exit
+Session Ended
+
+==================================================
+New Chat Session : 2026-06-27 10:29:05.164251
+==================================================
+Tarun: help
+DecodeBot: 
+Available Commands
+------------------
+hello
+hi
+how are you
+your name
+about
+time
+date
+bye
+exit
+
+Tarun: hello
+DecodeBot: Hello! 👋 How can I help you today?
+Tarun: about
+DecodeBot: I was developed as part of the DecodeLabs AI Internship.
+Tarun: your name ?
+DecodeBot: Sorry! I don't understand that command.
+Tarun: bye
+DecodeBot: Goodbye! Have a wonderful day! 😊
+Tarun: bye !
+DecodeBot: Sorry! I don't understand that command.
+Tarun: exit
+Session Ended
